@@ -12,7 +12,7 @@ Kids TV Launcher is an Android TV launcher designed to provide a safe and contro
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/kids-tv-launcher.git
+   git clone https://github.com/bhavesh100/kids-tv-launcher.git
    ```
 2. Open the project in Android Studio.
 3. Ensure you have the latest SDK and dependencies installed.
